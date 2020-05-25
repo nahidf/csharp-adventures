@@ -1,0 +1,14 @@
+﻿@model MyModel
+@{
+    ViewBag.Title = "Metadata";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<h3>Display Name</h3>
+
+<div>
+    <dt>
+        @Html.DisplayNameFor(model => model.MyProperty)
+    </dt>
+</div>
