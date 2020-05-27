@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Mvc;
 
-namespace Net4
+namespace Net4Lib
 {
     public class CustomDataAnnotationsModelMetadataProvider : DataAnnotationsModelMetadataProvider
     {

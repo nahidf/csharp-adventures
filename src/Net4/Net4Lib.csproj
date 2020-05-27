@@ -7,8 +7,8 @@
     <ProjectGuid>{B1A9FDEA-B47C-4BE4-B661-7F388C70B48F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Net4</RootNamespace>
-    <AssemblyName>Net4</AssemblyName>
+    <RootNamespace>Net4Lib</RootNamespace>
+    <AssemblyName>Net4Lib</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

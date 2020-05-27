@@ -182,9 +182,9 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Net4\Net4.csproj">
-      <Project>{B1A9FDEA-B47C-4BE4-B661-7F388C70B48F}</Project>
-      <Name>Net4</Name>
+    <ProjectReference Include="..\Net4\Net4Lib.csproj">
+      <Project>{b1a9fdea-b47c-4be4-b661-7f388c70b48f}</Project>
+      <Name>Net4Lib</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
